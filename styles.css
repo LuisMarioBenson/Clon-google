@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.info{
+    gap: 1%;
+    display: flex;
+    justify-content: end;
+    margin-right: 2%;
+}
+
+.gif{
+    display: flex;
+    justify-content: center;
+}
+
+.Botones{
+    display: flex;
+    justify-content: center;
+    gap: 0.5%;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+}
+
+.end{
+    display: flex;
+    flex-direction: row;
+    font-family: Arial, Helvetica, sans-serif;
+    gap: 0.5%;
+    margin-right: 2%;
+    margin-left: 2%;
+    justify-content: center;
+    align-content: flex-end;
+    flex-wrap: wrap;
+}
+
+
+.Privacidad{
+    margin-left: auto;
+    flex-grow: 1;
+}
+
+
